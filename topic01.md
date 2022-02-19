@@ -23,6 +23,8 @@
 -   What is your major / degree?
 -   What languages do you speak? (verbal and coding)
 -   What are you most excited for in university?
+-   [http://tiny.cc/vlpouz](http://tiny.cc/vlpouz)
+-   Swap contact details / start a group chat
 
 ---
 
@@ -40,6 +42,21 @@
 
 ---
 
+## [fit] Key Ideas
+
+-   Ethics and Privacy
+-   Statistical thinking
+-   Randomised Controlled Trial (RCT) vs Observational Study
+-   Domain knowledge
+-   Confounders
+-   Precautions with observational studies
+
+---
+
+## [fit] Group Work
+
+---
+
 ## [fit] Take a
 
 ## [fit] **_Break_**
@@ -49,6 +66,10 @@
 ## [fit] Explore
 
 ![filtered](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/data_shutterstock_carlos-castilla.jpg)
+
+---
+
+## [fit] R
 
 ---
 
