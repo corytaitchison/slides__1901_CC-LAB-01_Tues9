@@ -4,6 +4,26 @@
 
 ---
 
+![fit](files/Screen Shot 2022-02-21 at 12.41.38.png)
+
+---
+
+![fit](files/Screen Shot 2022-02-21 at 12.34.26.png)
+
+---
+
+![fit](files/Screen Shot 2022-02-21 at 12.35.41.png)
+
+---
+
+![fit](files/Screen Shot 2022-02-21 at 12.36.21.png)
+
+---
+
+![fit](files/Screen Shot 2022-02-21 at 12.38.25.png)
+
+---
+
 ## [fit] Welcome to data science
 
 ![filtered](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/data_shutterstock_carlos-castilla.jpg)
